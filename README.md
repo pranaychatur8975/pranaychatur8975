@@ -40,6 +40,6 @@
 
 - 💬 Ask me about **DevOps & Cloud.**
 - 📫 How to reach me **pranay.chatur@outlook.com**
-<a href="https://https://www.linkedin.com/in/pranay-chatur/" target="_blank">
+<a href="https://https://https://www.linkedin.com/in/pranay-chatur/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>
 </a>
