@@ -39,7 +39,7 @@
 </p>
 
 - 💬 Ask me about **DevOps & Cloud.**
-- 📫 How to reach me **[pranay.chatur@outlook.com]**
+- 📫 How to reach me **pranay.chatur@outlook.com**
 
 
 
