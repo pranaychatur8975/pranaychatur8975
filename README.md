@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Pranay Chatur <a href="https://www.youtube.com/@cloudchamp/">CloudChamp</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/pranay-chatur/" target="_blank" rel="noreferrer">Nasi</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps form 11 Months now. Feel free to reach out.</font></h3>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Pranay Chatur <a href="https://www.youtube.com/@cloudchamp/"></a></font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/pranay-chatur/" target="_blank" rel="noreferrer">Pranay</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps form 11 Months now. Feel free to reach out.</font></h3>
 
 
 
